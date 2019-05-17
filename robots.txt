@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iemaechoop.midnightpacific.com/sitemap.xml
